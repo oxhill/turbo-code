@@ -1,0 +1,96 @@
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 320 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 0.000000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 0.250000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 0.500000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 0.750000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 1.000000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 1.250000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 1.500000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
+/*=================================*/
+Turbo code simulation:
+/*=================================*/
+====log map decoder====
+frame length : 640 
+g = 
+1 0 1 1 
+1 1 0 1 
+Eb/N0 = 1.750000 
+punctured to rate 1/2
+iteration number : 6 
+/*=================================*/
